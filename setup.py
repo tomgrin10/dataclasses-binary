@@ -10,7 +10,7 @@ setup(
     description=description,
     author='Tom Gringauz',
     author_email='tomgrin10@gmail.com',
-    url='https://github.com/tomgrin10/binary-core',
+    url='https://github.com/tomgrin10/dataclasses-binary',
     packages=find_packages(),
     install_requires=[
     ],
